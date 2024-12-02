@@ -17,7 +17,7 @@ Example Visuals:
 #Dashboard
 ![hr-alarajhiBank](https://github.com/user-attachments/assets/ae1c922e-9d3d-4eb1-a413-a3ecc2a4f111)
 
-## Benefits:
+## Benefits
 •	Enhanced Insights: Gain deeper insights into workforce data through interactive and visually appealing reports.
 •	Improved Decision Making: Empower HR professionals to make data-driven decisions based on real-time data.
 •	User-Friendly Interface: Easy-to-use dashboard that can be explored by users with varying levels of technical expertise.
