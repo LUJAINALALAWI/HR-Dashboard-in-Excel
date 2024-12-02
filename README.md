@@ -13,7 +13,7 @@ Example Visuals:
 •	Turnover Rate: A line graph tracking the turnover rate over time.
 •	Employee Demographics: Pie charts showing the distribution of employees by gender, age group, and job role.
 •	Performance Metrics: A table summarizing key performance indicators (KPIs) for each department.
-- <a href="https://github.com/LUJAINALALAWI/HR-Dashboard-in-Excel/blob/main/Al.Rajhy.Bank_HR.xlsm">dataset used</a>
+##  <a href="https://github.com/LUJAINALALAWI/HR-Dashboard-in-Excel/blob/main/Al.Rajhy.Bank_HR.xlsm">dataset used</a>
 # Dashboard
 ![hr-alarajhiBank](https://github.com/user-attachments/assets/ae1c922e-9d3d-4eb1-a413-a3ecc2a4f111)
 
